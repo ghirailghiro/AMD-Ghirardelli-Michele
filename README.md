@@ -1,5 +1,7 @@
 # AMD-Ghirardelli-Michele
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghirailghiro/AMD-Ghirardelli-Michele/blob/main/AMD_Michele_Ghirardelli.ipynb)
+
 PageRank implemented from scratch on the comments dataset of the New York Times Articles & Comments (2020), for the course Algorithms for Massive Datasets (Master in Computer Science, University of Milan, a.y. 2025/26).
 
 Contents:
